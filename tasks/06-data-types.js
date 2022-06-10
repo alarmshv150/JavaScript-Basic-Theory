@@ -1,0 +1,14 @@
+const string = "string";
+const number = 11;
+const boolean = true;
+const nothing = null;
+const und = undefined;
+const obj = {};
+const arr = [];
+console.log(typeof string);
+console.log(typeof number);
+console.log(typeof boolean);
+console.log(typeof nothing);
+console.log(typeof und);
+console.log(typeof obj);
+console.log(typeof arr);
